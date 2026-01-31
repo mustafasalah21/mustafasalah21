@@ -20,7 +20,6 @@
 ## 📂 Featured Projects
 - 🎓 **ULearn Platform** – E-learning web & app platform
 - 🛒 **QuickBuy Shopping** – E-commerce system & dashboard
-- 📊 **Accounting SaaS System** – Multi-vendor accounting system
 
 ---
 
