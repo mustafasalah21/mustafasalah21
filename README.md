@@ -1,28 +1,29 @@
-## 👋 مرحباً، أنا مصطفى
+## 👋 Hi, I'm Mustafa Salah
 
 💻 Full-Stack Developer  
 ⚙️ ASP.NET Core | SQL Server | REST APIs  
-🎨 UI/UX Designer (Figma)
+🎨 UI/UX Designer (Figma)  
+🇵🇸 Palestinian Developer
 
 ---
 
-## 🚀 مهاراتي
+## 🚀 Skills
 - ASP.NET Core MVC & Web API
 - Entity Framework Core
 - SQL Server
 - HTML, CSS, Bootstrap
 - Git & GitHub
-- UI/UX (Wireframes, User Flow, Design System)
+- UI/UX Design (Wireframes, User Flow, Design System)
 
 ---
 
-## 📂 مشاريع مختارة
-- 🛒 **E-Commerce Dashboard**
-- 📊 **Accounting SaaS System**
-- 🎓 **ULearn Platform**
+## 📂 Featured Projects
+- 🎓 **ULearn Platform** – E-learning web & app platform
+- 🛒 **QuickBuy Shopping** – E-commerce system & dashboard
+- 📊 **Accounting SaaS System** – Multi-vendor accounting system
 
 ---
 
-## 📫 تواصل معي
-- 📧 Email:  hdhxhh39@gmail.com 
-- 💼 LinkedIn:(https://www.linkedin.com/in/mustafa-salah-097313294/)
+## 📫 Contact Me
+- 📧 Email: **hdhxhh39@gmail.com**
+- 💼 LinkedIn: https://www.linkedin.com/in/mustafa-salah-097313294/
