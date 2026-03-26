@@ -1,8 +1,7 @@
 ## 👋 Hi, I'm Mustafa Salah
 
 💻 Full-Stack Developer  
-⚙️ ASP.NET Core | SQL Server | REST APIs  
-🎨 UI/UX Designer (Figma)  
+⚙️ ASP.NET Core | SQL Server | REST APIs   
 🇵🇸 Palestinian Developer
 
 ---
