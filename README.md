@@ -12,7 +12,6 @@
 - SQL Server
 - HTML, CSS, Bootstrap
 - Git & GitHub
-- UI/UX Design (Wireframes, User Flow, Design System)
 
 ---
 
