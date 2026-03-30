@@ -18,7 +18,11 @@
 
 📂 Featured Projects
 🎓 ULearn Platform – E-learning web & app platform
+
+
 🛒 QuickBuy Shopping – E-commerce system & dashboard
+
+
 🏗 Al-Rimal Al-Tayeba  – Corporate website for a contracting & trading company, showcasing services, projects, and company profile with a modern responsive design
 
 ---
